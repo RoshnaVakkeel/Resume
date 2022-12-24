@@ -179,7 +179,7 @@ header {
 /* ----------------------------------------Footer */
 
 footer {
-    background-color: #505050;
+    background-color: #525252;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
@@ -226,4 +226,15 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/* ----------------------------------------Three Reasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
